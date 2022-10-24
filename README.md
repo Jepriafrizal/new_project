@@ -1,4 +1,6 @@
 # sederhana
+Belajar membuat project baru menggunakan flutter
+![new](https://user-images.githubusercontent.com/116096046/197559698-baae8f90-d8ba-443e-bc97-69b01c31ff72.png)
 
 A new Flutter project.
 
